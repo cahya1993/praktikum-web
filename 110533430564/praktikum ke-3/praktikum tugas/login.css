@@ -1,0 +1,76 @@
+#wrapper{
+
+margin:auto;
+
+width:750px;
+
+height : 600px;
+
+background: #69e0f5;
+
+}
+
+ #kotak1{
+
+margin:50px auto;
+
+width:400px;
+
+height : 220px;
+
+background: #b4edf7;
+
+border: 3px solid blue;
+
+}
+
+#kotak2{
+
+margin:auto;
+
+width:400px;
+
+height : 90px;
+
+font-family: garamond;
+
+font-size: 30px;
+
+color:red;
+
+}
+
+#ok{
+margin:30px 175px;
+
+}
+
+
+#batal{
+
+margin:auto 10px ;
+
+}
+
+ #user{
+
+margin: 30px 60px auto;
+
+font-family: arial;
+
+font-size: 20px;
+
+color:blue;
+
+}
+ #pass{
+
+margin: 20px 60px auto;
+
+font-family: arial;
+
+font-size: 20px;
+
+color:blue;
+
+}
